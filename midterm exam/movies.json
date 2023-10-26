@@ -1,0 +1,42 @@
+{
+    "Movie1": 
+        {
+            "id": 1,
+            "Title": "The Shawshank Redemption",
+            "Actor": "Tim Robbins, Morgan Freeman, Bob Gunton",
+            "Genre": "Drama",
+            "IMDB link": "https://www.imdb.com/title/tt0111161/?ref_=chtmvm_t_1"
+        },
+    "Movie2":
+        {
+            "id": 2,
+            "Title": "Once Upon a Studio",
+            "Actor": "Dan Abraham, Trent Correy",
+            "Genre": "Comedy",
+            "IMDB link": "https://www.imdb.com/title/tt28035641/?ref_=chtmvm_tp_t"
+        },
+    "Movie3":
+        {
+            "id": 3,
+            "Title": "Saw X",
+            "Actor": "Tobin Bell, Shawnee Smith, Synnøve Macody Lund",
+            "Genre": "Horror",
+            "IMDB link": "https://www.imdb.com/title/tt21807222/?ref_=chtmvm_t_5"
+        },
+    "Movie4":
+        {
+            "id": 4,
+            "Title": "The Burial",
+            "Actor": "Jamie Foxx, Tommy Lee Jones, Jurnee Smollett",
+            "Genre": "Drama",
+            "IMDB link": "https://www.imdb.com/title/tt5648882/?ref_=chtmvm_t_3"
+        },
+    "Movie5":
+        {
+            "id": 5,
+            "Title": "The Lord of the Rings: The Fellowship of the Ring",
+            "Actor": "Elijah Wood, Ian McKellen, Orlando Bloom",
+            "Genre": "Action, Adventure, Drama",
+            "IMDB link": "https://www.imdb.com/title/tt0120737/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_lord"
+        }
+}
